@@ -9,6 +9,10 @@ Mobile App Dev - App Brainstorming Ideas
  - a personal budget tracker that helps users stay consistent with their savings by placing expenses in specific categories with their name and amount.
 4. Campus Map Helper
 - Students will be able to view the map of their campus to easily find and navigate to their desination on campus with ease.
+5. Recipe Organizer 
+-User will be able to import any recipe, and then will organize based on type of food being made in recipe. Once user wants to use recipes again, they can have an easyoption to find it, or select random generator and app will provide any recipe from the system for the user to make.
+6. Study Tracker App
+-Users/students will be able to use study tools suchs as flash cards, memory game, and practice quizzes in order to help them study and prepare for exams/tests etc.
  
 ## Top 3 New App Ideas
 1. Self Care Tracker
