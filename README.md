@@ -92,11 +92,14 @@ a personalized self-care tracker designed to help users stay consistent with hab
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
+![wireframe](https://github.com/user-attachments/assets/b4705784-f200-409b-99e0-e79dcf192486)
 
-### [BONUS] Digital Wireframes & Mockups
+### Digital Wireframes & Mockups
+<img width="206" height="458" alt="image" src="https://github.com/user-attachments/assets/e7218cd3-ab8f-4e14-8b81-daf9b1107093" />
+<img width="206" height="450" alt="image" src="https://github.com/user-attachments/assets/3b14c2ca-2dbb-4bea-b78c-b7c624ad9e5f" />
+<img width="204" height="454" alt="image" src="https://github.com/user-attachments/assets/44138761-f935-48a3-857d-d81189819752" />
+<img width="207" height="450" alt="image" src="https://github.com/user-attachments/assets/0bca5e8e-0ffb-4ca8-ba30-fb4f3bb84cd5" />
 
-### [BONUS] Interactive Prototype
 
 ## Schema 
 
