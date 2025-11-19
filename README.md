@@ -96,9 +96,13 @@ a personalized self-care tracker designed to help users stay consistent with hab
 
 ### Digital Wireframes & Mockups
 <img width="206" height="458" alt="image" src="https://github.com/user-attachments/assets/e7218cd3-ab8f-4e14-8b81-daf9b1107093" />
+<img width="213" height="454" alt="image" src="https://github.com/user-attachments/assets/7ff5248f-cc96-479b-82d4-0f6ebe43f155" />
 <img width="206" height="450" alt="image" src="https://github.com/user-attachments/assets/3b14c2ca-2dbb-4bea-b78c-b7c624ad9e5f" />
+<img width="201" height="446" alt="image" src="https://github.com/user-attachments/assets/17fd66b9-b4ef-4759-8a01-1583358ea401" />
 <img width="204" height="454" alt="image" src="https://github.com/user-attachments/assets/44138761-f935-48a3-857d-d81189819752" />
 <img width="207" height="450" alt="image" src="https://github.com/user-attachments/assets/0bca5e8e-0ffb-4ca8-ba30-fb4f3bb84cd5" />
+<img width="208" height="451" alt="image" src="https://github.com/user-attachments/assets/a2de6ee5-5761-4662-baf5-f18b1e3cf4ea" />
+
 
 
 ## Schema 
